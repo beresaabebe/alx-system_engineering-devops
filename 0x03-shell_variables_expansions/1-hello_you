@@ -4,3 +4,4 @@ echo "hello "$"USER
 echo "hello "$\USER
 echo "hello "
 echo "hello "$\USER
+echo "hello "$"USER"
