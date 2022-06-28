@@ -2,3 +2,4 @@
 echo "hello "0
 echo "hello "$"USER
 echo "hello "$\USER
+echo "hello "
